@@ -41,5 +41,5 @@
 
 ###
 
-![Puneet's GitHub stats](https://github-readme-stats.vercel.app/api?username=puneet20011&theme=shadow_red_icons=true)
+![Puneet's GitHub stats](https://github-readme-stats.vercel.app/api?username=puneet20011&theme=tokyonight_icons=true)
 
