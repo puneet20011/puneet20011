@@ -41,6 +41,6 @@
 
 ###
 
-[![Puneet's GitHub stats](https://github-readme-stats.vercel.app/api?username=puneet20011&count private=true&show_icons=true&theme=tokyonight&hide rank=false)]
-(https://github.com/anuraghazra/github-readme-stats)
 
+[![Puneet's GitHub stats](https://github-readme-stats.vercel.app/api?username=puneet20011&show_icons=true&theme=radical)]
+(https://github.com/anuraghazra/github-readme-stats)
