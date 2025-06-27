@@ -44,5 +44,5 @@
 <h2 align="left">GitHub Stats</h2>
 
 
-![Puneet's github stats](https://github-readme-stats.vercel.app/api?username=puneet20011&show_icons=true&theme=tokyonight)
+![Puneet's github stats](https://github-readme-stats.vercel.app/api?username=puneet20011&count_private=true&show_icons=true&theme=tokyonight)
 
