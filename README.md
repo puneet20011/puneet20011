@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📚 Currently pursuing Master of Science in Computer Science at Northeastern University.<br> I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">📚 Currently pursuing Master of Science in Computer Science at Northeastern University.<br>🎨 I love Web Design <br>🎯 My goal is to become a fullstack developer <br>🎲 I'm currently learning about data analytics and blockchain as well</p>
 
 ###
 
